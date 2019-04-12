@@ -1,3 +1,4 @@
 Select * from Employee
 where salary>10000
+order by KP
 order by ID
